@@ -1,4 +1,4 @@
-# Sujith's Cybersecurity Home Lab
+# Mathew's Cybersecurity Home Lab
 
 Welcome to my personal cybersecurity home lab — a virtualized environment built on bare-metal hardware using Proxmox VE. This lab is a long-term, evolving platform where I explore offensive and defensive security, simulate real-world attacks, test detection tools, and continuously sharpen my skills.
 
@@ -93,7 +93,7 @@ This lab is continuously evolving. Future upgrades include:
 
 ## 👋 About Me
 
-I'm Sujith, a cybersecurity learner building my home lab from the ground up to explore real-world security challenges.
+I'm Mathew, a cybersecurity learner building my home lab from the ground up to explore real-world security challenges.
 
 > I break things, fix them, and document everything.
 

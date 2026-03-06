@@ -1,5 +1,5 @@
 
-# 🛠️ DVWA Setup on Ubuntu Desktop – Sujith's Cybersecurity Lab
+# 🛠️ DVWA Setup on Ubuntu Desktop – Mathew's Cybersecurity Lab
 
 This document provides a comprehensive guide for installing and configuring **Damn Vulnerable Web Application (DVWA)** on **Ubuntu Desktop** in my cybersecurity home lab. DVWA is a vulnerable web application used for practicing red team attack techniques such as SQLi, XSS, brute-force, and more.
 
