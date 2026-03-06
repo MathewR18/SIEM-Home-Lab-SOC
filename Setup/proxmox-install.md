@@ -34,7 +34,7 @@ This document outlines the installation of **Proxmox Virtual Environment (VE)** 
    - Static IP: `192.168.1.200/24`
    - Gateway: `192.168.1.1`
    - DNS Server: `8.8.8.8`
-5. Set **Hostname**: `sujith-homelab`
+5. Set **Hostname**: `mathew-homelab`
 6. Completed installation, removed USB, and rebooted.
 7. Accessed **Proxmox Web Interface** from laptop:  
    [https://192.168.1.200:8006](https://192.168.1.200:8006)
